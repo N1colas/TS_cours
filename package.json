@@ -1,0 +1,19 @@
+{
+  "name": "ts_cours",
+  "version": "1.0.0",
+  "description": "cours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N1colas/TS_cours.git"
+  },
+  "author": "N1colas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N1colas/TS_cours/issues"
+  },
+  "homepage": "https://github.com/N1colas/TS_cours#readme"
+}
