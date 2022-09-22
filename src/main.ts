@@ -1,5 +1,5 @@
 import { r, r0, x0, y0 } from "./consts";
-import "./style.css";
+import "./style.scss";
 console.log("start");
 const svgns = "http://www.w3.org/2000/svg";
 const container = document.querySelector("g.simples");
