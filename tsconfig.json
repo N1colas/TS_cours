@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "sourceMap": true,
+      "outDir": "dist",
+      "target": "es2015",
+      "module": "ES2015",
+      "allowJs": true,
+      "moduleResolution": "node"
+    },
+    "include": ["src"]
+}
