@@ -1,4 +1,4 @@
-$color: blue;
+$color: black;
 svg {
   border: 0.1em solid $color;
   width: 50em;
@@ -14,3 +14,26 @@ circle {
 .simples circle {
   fill: $color;
 }
+
+.lines line {
+  stroke: $color;
+  stroke-width: 0.02em;
+}
+
+
+div.command {
+  border: 0.1em solid $color;
+  width: 50em;
+  height: 5em;
+  
+  padding: 0.5em;
+
+  display: flex;
+  flex-flow: column;
+  gap:0.5em
+
+  input {
+    width: 100%;
+  }
+  
+  }
